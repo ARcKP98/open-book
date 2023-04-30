@@ -1,0 +1,1 @@
+web: gunicorn open_book.wsgi
